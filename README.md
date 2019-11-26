@@ -4,6 +4,10 @@
 
 1. Add `.env` file in the local directory
 
+```bash
+cat .env.example > .env
+```
+
 2. Fill values of the file
 
 3. run
