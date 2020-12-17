@@ -1,0 +1,10 @@
+{
+  "apps": [
+    {
+      "serverURL": "your parse server address",
+      "appId": "your application id",
+      "masterKey": "your application master key",
+      "appName": "your application name"
+    }
+  ]
+}
